@@ -1,0 +1,11 @@
+@import "./base/index.scss";
+
+body {
+  background: $orange;
+}
+
+.navbar {
+  display: flex;
+  background-color: $white;
+  height: $bg-s;
+}
