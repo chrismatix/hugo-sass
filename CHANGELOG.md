@@ -18,6 +18,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 -
 
+## [1.0.2] - 2017-07-10
+### Added
+- Babel (gulpfile.js -> gulpfile.babel.js)
+- path config file
+
+### Changed
+- build process now fully managed by gulp
+
+### Removed
+- build file
+
+
 ## [1.0.1] - 2017-07-10
 ### Added
 - npm start script
